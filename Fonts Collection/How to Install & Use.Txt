@@ -1,0 +1,17 @@
+
+== HOW TO INSTALL ==
+
+Simply copy all *.ttf files from the selected folder
+& past them in "C:\Windows\Fonts\" folder.
+
+== HOW TO USE ==
+
+To use these fonts simply select you desired font from
+fonts dialog box shown in any application. In VB6, select
+font from Control's properties window.
+
+For further Information, Contact,
+
+Muhammd Mehmood Iqbal
+ME_IQ_TM@Yahoo.com
+Thank You.
